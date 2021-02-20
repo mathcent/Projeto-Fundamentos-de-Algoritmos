@@ -1,0 +1,77 @@
+body  {
+      background-color: lightgreen;
+      background-repeat: no-repeat;
+      background-size: cover;
+      font-family: "Lucida Console", Monaco, monospace;
+    }
+
+form {
+    font-size: 200%;
+    font-family: monospace;
+    text-align: center;
+}
+
+p {
+    font-size: 150%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 500%;
+    font-family: monospace;
+    text-align: center;
+    color: whitesmoke;
+    background-color: lightgreen;
+}
+
+h2 {
+    font-size: 250%;
+    font-family: monospace;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+h3 {
+    font-size: 150%
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: green;
+}
+
+table, td, th {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2% black;
+}
+
+table {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    }
+
+th, td {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2%;
+    color: black;
+}
+tr {
+    font-family: 'Times New Roman', Times, serif;
+    background-color:lightgreen;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgreen;
+}
+
+canvas {
+    position: absolute;
+    top: 0px;
+    bottom: -200px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+
+}
